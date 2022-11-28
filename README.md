@@ -1,7 +1,7 @@
-#PVP selector
+# PVP selector
 
-Simply select enemies below half life
+## Simply select player below half HP
 
-be based on https://github.com/Karlin-Z/PvPSelector Modify
+``` be based on https://github.com/Karlin-Z/PvPSelector Modify ```
 
-If you have any questions, please https://github.com/Errant-H/PvPSelect/issues/new  me 
+*** If you have any questions, please https://github.com/Errant-H/PvPSelect/issues/new  me ***
